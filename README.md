@@ -9,7 +9,7 @@ Shout out to my main inspo SchizoDev(YT channel), niceAiCats (YT channel), and a
 
 For the documentation of the project, you'll find it here in my repo, it's written in Romanian but maybe in the future I'll make it in English as well. In short, the concept of this app is to talk with the one and only Hatsune Miku (you can change her identity by the way) and she will speak to you only in Japanese (because this is the scope of the project) through VoiceVox TTS Engine (check out Hiroshiba's repo on GitHub), or in other languages but that would ruin the fun (for me at least :>) and then you''' receive an answer from her in Japanese and English as well. 
 
-If you want to make it work as well, you need to find your OpenAI API Key on the official website (https://platform.openai.com/api-keys), put it in the .env file I provided and then to run the file aiGF.bat on your local machine and follow the instruction I gave you there.
+If you want to make it work as well, you need to find your OpenAI API Key on the official website (https://platform.openai.com/api-keys), put it in the .env file I provided and then to run the file aiGF.bat on your local machine and follow the instruction I gave you there. And also, in `app.py`, put in the "master" variable your name so she can know with who's talking^^
 
 So have fun with my app and enjoy your conversation with Hatsune! ^^
 
