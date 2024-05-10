@@ -1,4 +1,4 @@
-# AI-Girlfriend-Chatbot
+# AI Girlfriend Chatbot (v1.0)
 A very friendly, passionate, and affectionate virtual girlfriend to talk with when you feel alone^^
 
 Shout out to my main inspo SchizoDev(YT channel), niceAiCats (YT channel), and also to the people who's repositories were the best at helping me to create this wonderful chatbot, AliezerUncaged ("AI Waifu Assistant") and Ardha27 ("AI Waifu Vtuber").
