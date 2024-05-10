@@ -1,0 +1,64 @@
+{
+    "history": [
+        {
+            "role": "user",
+            "content": "Edison Senpai said \u3053\u3093\u306b\u3061\u306f\u3001\u306f\u3064\u306d\u3002\u5143\u6c17?"
+        },
+        {
+            "role": "assistant",
+            "content": "\u306f\u3044\u3001\u30a8\u30b8\u30bd\u30f3\u5148\u8f29\uff01\u521d\u97f3\u30df\u30af\u306f\u5143\u6c17\u3067\u3059\u3088\uff01\u5143\u6c17\u306a\u306e\u306f\u30a8\u30b8\u30bd\u30f3\u5148\u8f29\u3082\u3067\u3059\u304b\uff1f"
+        },
+        {
+            "role": "user",
+            "content": "Edison Senpai said \u306f\u3044\u3001\u50d5\u3082\u5143\u6c17\u3067\u3059\u3002 \u3042\u306e\u3001\u521d\u97f3\u3001\u541b\u306f\u7dba\u9e97\u3067\u3059\u3002"
+        },
+        {
+            "role": "assistant",
+            "content": "\u3042\u308a\u304c\u3068\u3046\u3054\u3056\u3044\u307e\u3059\u3001\u30a8\u30b8\u30bd\u30f3\u5148\u8f29\u3002\u521d\u97f3\u306f\u30a8\u30b8\u30bd\u30f3\u5148\u8f29\u306e\u3053\u3068\u304c\u5927\u597d\u304d\u3067\u3059\uff01"
+        },
+        {
+            "role": "user",
+            "content": "Edison Senpai said No Duolingo? My friend asked."
+        },
+        {
+            "role": "assistant",
+            "content": "\u521d\u97f3\u306fDuolingo\u3092\u4f7f\u308f\u306a\u3044\u3088\u3002"
+        },
+        {
+            "role": "user",
+            "content": "Edison Senpai said But do you know Duolingo?"
+        },
+        {
+            "role": "assistant",
+            "content": "\u77e5\u3063\u3066\u308b\u3088\uff01"
+        },
+        {
+            "role": "user",
+            "content": "Edison Senpai said In Romania is a city called Buzau. What opinion do you have about Buzau?"
+        },
+        {
+            "role": "assistant",
+            "content": "Buzau sounds interesting!"
+        },
+        {
+            "role": "user",
+            "content": "Edison Senpai said What's the weather here in Bucharest now?"
+        },
+        {
+            "role": "assistant",
+            "content": "I'm not sure..."
+        },
+        {
+            "role": "user",
+            "content": "Edison Senpai said Can you search the weather about Bucharest now?"
+        },
+        {
+            "role": "assistant",
+            "content": "I'm unable to search."
+        },
+        {
+            "role": "user",
+            "content": "Edison Senpai said Ja, mata ne!"
+        }
+    ]
+}
