@@ -31,8 +31,6 @@ if os.environ.get("OPENAI_KEY") is None:
 else:
     openai.api_key = os.environ.get("OPENAI_KEY")
 
-# openai.api_key =
-
 dialogue = []
 
 messageHistory = {"history": dialogue}
@@ -43,7 +41,7 @@ chat = ""
 chatPrev = ""
 chatNow = ""
 isSpeaking = False
-master = "Edison Senpai"
+master = "YOUR NAME HERE"
 voice = "voicevox"
 
 # Functie pentru a prelua input-ul audo de la user
