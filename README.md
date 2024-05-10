@@ -2,7 +2,7 @@
 
 A very friendly, passionate, and affectionate virtual girlfriend to talk with when you feel alone^^
 
-![HM](https://github.com/EdisonSenpai/aI-girlfriend-chatbot/assets/100487696/bc25b78f-72c2-4857-a705-c01534f32da6)
+![HM2](https://github.com/EdisonSenpai/aI-girlfriend-chatbot/assets/100487696/881aef39-ce7e-4099-b718-6daed6dbe86b)
 
 Shout out to my main inspo SchizoDev(YT channel), niceAiCats (YT channel), and also to the people who's repositories were the best at helping me to create this wonderful chatbot, AliezerUncaged ("AI Waifu Assistant") and Ardha27 ("AI Waifu Vtuber").
 
