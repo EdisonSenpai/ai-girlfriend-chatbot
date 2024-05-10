@@ -1,6 +1,6 @@
 # AI Girlfriend Chatbot (v1.0)
 
-##A very friendly, passionate, and affectionate virtual girlfriend to talk with when you feel alone^^
+## A very friendly, passionate, and affectionate virtual girlfriend to talk with when you feel alone^^
 Your personal Japanese pop idol on her way to make you feel better! ^^
 
 ![HM2](https://github.com/EdisonSenpai/aI-girlfriend-chatbot/assets/100487696/881aef39-ce7e-4099-b718-6daed6dbe86b)
