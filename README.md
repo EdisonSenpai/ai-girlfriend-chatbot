@@ -1,5 +1,8 @@
 # AI Girlfriend Chatbot (v1.0)
+
 A very friendly, passionate, and affectionate virtual girlfriend to talk with when you feel alone^^
+
+![HM](https://github.com/EdisonSenpai/aI-girlfriend-chatbot/assets/100487696/bc25b78f-72c2-4857-a705-c01534f32da6)
 
 Shout out to my main inspo SchizoDev(YT channel), niceAiCats (YT channel), and also to the people who's repositories were the best at helping me to create this wonderful chatbot, AliezerUncaged ("AI Waifu Assistant") and Ardha27 ("AI Waifu Vtuber").
 
@@ -10,3 +13,4 @@ If you want to make it work as well, you need to find your OpenAI API Key on the
 So have fun with my app and enjoy your conversation with Hatsune! ^^
 
 P.S. : This was actually a project for my Multimedia Application course which, by the way, received a full grade :>
+![HM](https://github.com/EdisonSenpai/aI-girlfriend-chatbot/assets/100487696/bc25b78f-72c2-4857-a705-c01534f32da6)
