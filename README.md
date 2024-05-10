@@ -5,7 +5,7 @@ Your personal Japanese pop idol on her way to make you feel better! ^^
 
 ![HM2](https://github.com/EdisonSenpai/aI-girlfriend-chatbot/assets/100487696/881aef39-ce7e-4099-b718-6daed6dbe86b)
 
-Shout out to my main inspo SchizoDev(YT channel), niceAiCats (YT channel), and also to the people who's repositories were the best at helping me to create this wonderful chatbot, AliezerUncaged ("AI Waifu Assistant") and Ardha27 ("AI Waifu Vtuber").
+Shout out to my main inspo SchizoDev (YT channel: https://www.youtube.com/@SchizoDev), niceAiCats (YT channel: https://www.youtube.com/@niceaicats7226), and also to the people who's repositories were the best at helping me to create this wonderful chatbot, AliezerUncaged ("AI Waifu Assistant") and Ardha27 ("AI Waifu Vtuber").
 
 For the documentation of the project, you'll find it here in my repo, it's written in Romanian but maybe in the future I'll make it in English as well. In short, the concept of this app is to talk with the one and only Hatsune Miku (you can change her identity by the way) and she will speak to you only in Japanese (because this is the scope of the project) through VoiceVox TTS Engine (check out Hiroshiba's repo on GitHub), or in other languages but that would ruin the fun (for me at least :>) and then you''' receive an answer from her in Japanese and English as well. 
 
