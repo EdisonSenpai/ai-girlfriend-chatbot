@@ -1,0 +1,14 @@
+googletrans==4.0.0rc1
+emoji
+alkana
+keyboard
+requests
+torch
+unidic
+mecab-python3
+openai
+pandas
+PyAudio
+py7zr
+humanize
+colorama
