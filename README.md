@@ -13,7 +13,7 @@ If you want to make it work as well, you need to find your OpenAI API Key on the
 
 So have fun with my app and enjoy your conversation with Hatsune! ^^
 
-P.S. : This was actually a project for my Multimedia Application course which, by the way, received a full grade :>
+P.S. : This was actually a project for my Multimedia Applications course which, by the way, received a full grade :>
 
 ![HM](https://github.com/EdisonSenpai/aI-girlfriend-chatbot/assets/100487696/bc25b78f-72c2-4857-a705-c01534f32da6)
 
